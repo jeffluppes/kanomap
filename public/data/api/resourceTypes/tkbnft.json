@@ -1,0 +1,52 @@
+{
+    "featureTypes": {
+        "tkbn": {
+            "name": "tkbn",
+            "style": {
+                "nameLabel": "Naam",
+                "fillColor": "#a0c16f",
+                "strokeColor": "#3d5d0d",
+                "strokeWidth": 2,
+                "iconUri": "images/kano.png",
+                "iconWidth": 30,
+                "iconHeight": 30,
+                "stroke": true,
+                "selectedStrokeColor": "#000000",
+                "opacity": 1,
+                "fillOpacity": 1
+            },
+            "propertyTypeKeys": "Naam,Adres,Website",
+            "id": "api/resources/tkbn#tkbn",
+            "isInitialized": true,
+            "propertyTypeData": []
+        }
+    },
+    "propertyTypeData": {
+        "Naam": {
+            "label": "Naam",
+            "title": "Naam",
+            "type": "text",
+            "section": "data",
+            "canEdit": false,
+            "visibleInCallOut": true
+        },
+        "Adres": {
+            "label": "Adres",
+            "title": "Adres",
+            "section": "data",
+            "type": "text",
+            "canEdit": false,
+            "visibleInCallOut": true
+        },
+        "Website": {
+            "label": "Website",
+            "title": "Website",
+            "type": "text",
+            "section": "data",
+            "canEdit": false,
+            "visibleInCallOut": true
+        }
+    },
+    "id": "tkbn",
+    "propertyTypes": {}
+}

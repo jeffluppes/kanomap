@@ -1,0 +1,3 @@
+interface String {
+    removeBOM(): any;
+}

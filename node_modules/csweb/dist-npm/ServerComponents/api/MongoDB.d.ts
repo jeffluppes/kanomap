@@ -1,0 +1,33 @@
+import ApiManager = require('./ApiManager');
+import Layer = ApiManager.Layer;
+import Feature = ApiManager.Feature;
+import Log = ApiManager.Log;
+import ApiMeta = ApiManager.ApiMeta;
+import mongodb = require('mongodb');
+import BaseConnector = require('./BaseConnector');
+export declare class MongoDBStorage extends BaseConnector.BaseConnector {
+    server: string;
+    port: number;
+    manager: ApiManager.ApiManager;
+    db: mongodb.Db;
+    constructor(server: string, port: number);
+    initLayer(layer: Layer): void;
+    addLayer(layer: Layer, meta: ApiMeta, callback: Function): void;
+    addLayerBulk(layer: Layer, callback: Function): void;
+    getLayer(layerId: string, meta: ApiMeta, callback: Function): void;
+    deleteLayer(layerId: string, meta: ApiMeta, callback: Function): void;
+    updateLayer(layer: Layer, meta: ApiMeta, callback: Function): void;
+    addFeature(layerId: string, feature: any, meta: ApiMeta, callback: Function): void;
+    getFeature(layerId: string, featureId: string, meta: ApiMeta, callback: Function): void;
+    updateFeature(layerId: string, feature: any, useLog: boolean, meta: ApiMeta, callback: Function): void;
+    deleteFeature(layerId: string, featureId: string, meta: ApiMeta, callback: Function): void;
+    addLog(layerId: string, featureId: string, property: string, log: Log, meta: ApiMeta, callback: Function): void;
+    addLog2(layerId: string, featureId: string, log: Log, meta: ApiMeta, callback: Function): void;
+    getLog(layerId: string, featureId: string, meta: ApiMeta, callback: Function): void;
+    deleteLog(layerId: string, featureId: string, ts: number, prop: string, meta: ApiMeta, callback: Function): void;
+    updateProperty(layerId: string, featureId: string, property: string, value: any, useLog: boolean, meta: ApiMeta, callback: Function): void;
+    getBBox(layerId: string, southWest: number[], northEast: number[], meta: ApiMeta, callback: Function): void;
+    getSphere(layerId: string, maxDistance: number, longtitude: number, latitude: number, meta: ApiMeta, callback: Function): void;
+    getWithinPolygon(layerId: string, feature: Feature, meta: ApiMeta, callback: Function): void;
+    init(layerManager: ApiManager.ApiManager, options: any, callback: Function): void;
+}
