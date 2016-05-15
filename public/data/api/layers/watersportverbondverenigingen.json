@@ -1,0 +1,1045 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.750213623046875,
+          52.62222638565796
+        ]
+      },
+      "properties": {
+        "Location": " Alkmaar",
+        "Website": "http://www.akvodysseus.nl/",
+        "Naam": "AKV Odysseus",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.872436523437499,
+          52.284962354465726
+        ]
+      },
+      "properties": {
+        "Location": " Amstelveen",
+        "Website": "http://www.kvfrisia.nl/",
+        "Naam": "KV Frisia",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.652709960937499,
+          52.12590076522272
+        ]
+      },
+      "properties": {
+        "Location": " Alphen a.d. Rijn",
+        "Website": "http://www.krommeaar.nl/",
+        "Naam": "AKV de Kromme Aar",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.392913818359375,
+          52.158769628869045
+        ]
+      },
+      "properties": {
+        "Location": " Amersfoort",
+        "Website": "http://www.kvkeistad.nl/",
+        "Naam": "KV Keistad",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.890975952148437,
+          52.37203595971475
+        ]
+      },
+      "properties": {
+        "Location": " Amsterdam",
+        "Website": "http://www.kanoopijburg.nl/",
+        "Naam": "Kano op IJburg",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9225616455078125,
+          52.38502983391387
+        ]
+      },
+      "properties": {
+        "Location": " Amsterdam",
+        "Website": "http://www.kvgaasperplas.nl/",
+        "Naam": "KV Gaasperplas",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8566436767578125,
+          52.38314386359783
+        ]
+      },
+      "properties": {
+        "Location": " Amsterdam",
+        "Website": "http://www.kanoverenigingsloterplas.nl/",
+        "Naam": "KV Sloterplas",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.85870361328125,
+          52.35819956924031
+        ]
+      },
+      "properties": {
+        "Location": " Amsterdam",
+        "Website": "http://www.kvviking.nl/",
+        "Naam": "KV Viking Amsterdam",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9266815185546875,
+          52.35945760198828
+        ]
+      },
+      "properties": {
+        "Location": " Amsterdam",
+        "Website": "http://www.kvzeeburg.nl/",
+        "Naam": "KV Zeeburg",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.876312255859375,
+          52.00601934721806
+        ]
+      },
+      "properties": {
+        "Location": " Arnhem",
+        "Website": "http://www.kvjasonarnhem.nl/",
+        "Naam": "KV Jason Arnhem",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.286041259765625,
+          51.49591970845512
+        ]
+      },
+      "properties": {
+        "Location": " Bergen op Zoom",
+        "Website": "http://www.zeewitoe.nl/",
+        "Naam": "KV Zeewitoe",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7510986328125,
+          52.300081389496114
+        ]
+      },
+      "properties": {
+        "Location": " Borne",
+        "Website": "http://www.tilikum.nl/",
+        "Naam": "TKV Tilikum",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.30587934176726,
+          51.5903233
+        ]
+      },
+      "properties": {
+        "Location": " Boxtel",
+        "Website": "http://www.depagaai.nl/",
+        "Naam": "KV de Pagaai",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74884033203125,
+          51.565119704124186
+        ]
+      },
+      "properties": {
+        "Location": " Breda",
+        "Website": "http://www.kanobreda.nl/",
+        "Naam": "KV Breda",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2130126953125,
+          51.944264879028765
+        ]
+      },
+      "properties": {
+        "Location": " Culemborg",
+        "Website": "http://www.wvdehelling.nl/",
+        "Naam": "Culemborgse WV De helling kano",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.34783935546875,
+          52.00094684771794
+        ]
+      },
+      "properties": {
+        "Location": " Delft",
+        "Website": "http://www.slalom.nl/",
+        "Naam": "KV Plane",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.27642822265625,
+          52.081193931677035
+        ]
+      },
+      "properties": {
+        "Location": " Den Haag",
+        "Website": "http://www.windhappers.nl/",
+        "Naam": "KV de Windhappers",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.844970703125,
+          52.553811187940674
+        ]
+      },
+      "properties": {
+        "Location": " De Rijp",
+        "Website": "http://kvargonauten.nl/",
+        "Naam": "KV Argonauten",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.178436279296875,
+          52.25386812991623
+        ]
+      },
+      "properties": {
+        "Location": " Deventer",
+        "Website": "http://www.deventerkanovereniging.nl/",
+        "Naam": "Deventer KV",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.68841552734375,
+          51.76614013468048
+        ]
+      },
+      "properties": {
+        "Location": " Dordrecht",
+        "Website": "http://www.dajaks.nl/",
+        "Naam": "DKKV Dajaks",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.08770298120825,
+          53.1036951
+        ]
+      },
+      "properties": {
+        "Location": " Drachten",
+        "Website": "http://www.frosken.nl/",
+        "Naam": "KV de Frosken",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8043388,
+          51.7081982
+        ]
+      },
+      "properties": {
+        "Location": " Drimmelen",
+        "Website": "http://www.biesboschbevers.nl/",
+        "Naam": "KV de Biesbosch Bevers",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.44921875,
+          51.45486265825492
+        ]
+      },
+      "properties": {
+        "Location": " Eindhoven",
+        "Website": "http://www.ekvbeatrix.nl/",
+        "Naam": "EKV Beatrix",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.497283935546875,
+          51.45315114582281
+        ]
+      },
+      "properties": {
+        "Location": " Eindhoven",
+        "Website": "http://www.ekvbeatrix.nl/",
+        "Naam": "EKV De Genneper Molen",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.86920166015625,
+          52.215180028456814
+        ]
+      },
+      "properties": {
+        "Location": " Enschede",
+        "Website": "http://www.euroskano.nl/",
+        "Naam": "DKV Euros",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.55084228515625,
+          53.18711046289339
+        ]
+      },
+      "properties": {
+        "Location": " Franeker",
+        "Website": "http://www.onderdewadden.nl/",
+        "Naam": "KV onder de Wadden",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7293701171875,
+          51.76104049272952
+        ]
+      },
+      "properties": {
+        "Location": " Grave",
+        "Website": "http://www.kano-club-grave.nl/",
+        "Naam": "Kano Club Grave",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5582454164798,
+          53.22179255
+        ]
+      },
+      "properties": {
+        "Location": " Groningen",
+        "Website": "http://www.groningenkv.nl/",
+        "Naam": "Groninger kano vereniging",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6327972412109375,
+          52.382305628707854
+        ]
+      },
+      "properties": {
+        "Location": " Haarlem",
+        "Website": "http://www.kv-trekvogels.nl/",
+        "Naam": "Haarlemse kanovereniging",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6767425537109375,
+          52.3688917060255
+        ]
+      },
+      "properties": {
+        "Location": " Haarlem",
+        "Website": "http://www.kv-trekvogels.nl/",
+        "Naam": "KV Trekvogels",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62200927734375,
+          52.57301159428889
+        ]
+      },
+      "properties": {
+        "Location": " Hardenberg",
+        "Website": "http://www.kvhardenberg-vecht.nl/",
+        "Naam": "KV Hardenberg - Vecht",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6524658203125,
+          52.348763181988076
+        ]
+      },
+      "properties": {
+        "Location": " Harderwijk",
+        "Website": "http://www.kvdolfijnen.com/",
+        "Naam": "KV Dolfijnen",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.664825439453125,
+          51.474540439419755
+        ]
+      },
+      "properties": {
+        "Location": " Helmond",
+        "Website": "http://www.helmvaarders.nl/",
+        "Naam": "HWC de Helmvaarders",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.792297363281249,
+          52.25470880113083
+        ]
+      },
+      "properties": {
+        "Location": " Hengelo",
+        "Website": "http://www.twvhengelo.com/",
+        "Naam": "Twentse Watersportvereniging",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1379984,
+          51.4862924
+        ]
+      },
+      "properties": {
+        "Location": " Hilvarenbeek",
+        "Website": "http://www.kanoclubtilburg.nl/",
+        "Naam": "Kano Club Tilburg",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.67532055295702,
+          52.3005585
+        ]
+      },
+      "properties": {
+        "Location": " Hoofddorp",
+        "Website": "http://www.kvwaterwolf.nl/",
+        "Naam": "KV Waterwolf",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.170440673828125,
+          52.69219954090531
+        ]
+      },
+      "properties": {
+        "Location": " Hoogkarspel",
+        "Website": "http://www.kvposeidon.mysites.nl/",
+        "Naam": "KV Stedebroec-Poseidon",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.06744384765625,
+          52.62806176021313
+        ]
+      },
+      "properties": {
+        "Location": " Hoorn",
+        "Website": "http://www.kv-flevo.nl/",
+        "Naam": "KV Flevo",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.873565673828125,
+          52.58386028042404
+        ]
+      },
+      "properties": {
+        "Location": " Kampen",
+        "Website": "http://www.skonenvaarder.nl/",
+        "Naam": "KV Skonenvaarder",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4000244140625,
+          52.196665102056826
+        ]
+      },
+      "properties": {
+        "Location": " Katwijk",
+        "Website": "http://kbt.arendjantetteroo.nl/",
+        "Naam": "Kanobranding team Katwijk",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.799407958984375,
+          53.20027453918263
+        ]
+      },
+      "properties": {
+        "Location": " Leeuwarden",
+        "Website": "http://www.kvhydronauten.nl/",
+        "Naam": "KV de Hydronauten",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.537353515625,
+          52.155399579752306
+        ]
+      },
+      "properties": {
+        "Location": " Leiderdorp",
+        "Website": "http://www.kanorijnland.nl/",
+        "Naam": "LKV Rijnland",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.420135498046875,
+          52.171405040721886
+        ]
+      },
+      "properties": {
+        "Location": " Lochum",
+        "Website": "http://www.lkv-njord.nl/",
+        "Naam": "LKV Njord",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.04773380628553,
+          52.14133465
+        ]
+      },
+      "properties": {
+        "Location": " Maarssen",
+        "Website": "http://www.utrechtsekanoclub.nl/",
+        "Naam": "Utrechtse Kano Club",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.185791015625,
+          52.037287059127024
+        ]
+      },
+      "properties": {
+        "Location": " Monster",
+        "Website": "http://www.devierwinden.net/",
+        "Naam": "KV de Vier Winden",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.82000732421875,
+          51.81455800703693
+        ]
+      },
+      "properties": {
+        "Location": " Nijmegen",
+        "Website": "http://www.de-batavier.nl/",
+        "Naam": "NKSV de Batavier",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.19927978515625,
+          51.581336573511116
+        ]
+      },
+      "properties": {
+        "Location": " Oisterwijk",
+        "Website": "http://www.kvoisterwijk.nl/",
+        "Naam": "KV Oisterwijk",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.617509,
+          53.0969907
+        ]
+      },
+      "properties": {
+        "Location": " Oosterend",
+        "Website": "http://www.wsvtexel.nl/",
+        "Naam": "Watersportvereniging Texel afd. kano",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.511016845703125,
+          51.7644403180351
+        ]
+      },
+      "properties": {
+        "Location": " Oss",
+        "Website": "http://www.mkv-oss.nl/",
+        "Naam": "Maaslandse Kanovereniging",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.00395144339682,
+          51.1927811
+        ]
+      },
+      "properties": {
+        "Location": " Roermond",
+        "Website": "http://www.rwvnautilus.nl/",
+        "Naam": "RWV Nautilus",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.492034912109375,
+          51.923943445544715
+        ]
+      },
+      "properties": {
+        "Location": " Rotterdam",
+        "Website": "http://www.kanorotterdam.nl/",
+        "Naam": "Rotterdamsche Cano Club",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47243794635186,
+          51.5635235
+        ]
+      },
+      "properties": {
+        "Location": " Sint-Oedenrode",
+        "Website": "http://www.hooidonksekanoclub.nl/",
+        "Naam": "Hooidonkse kano club",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9624533,
+          52.9925771
+        ]
+      },
+      "properties": {
+        "Location": " Stadskanaal",
+        "Website": "http://www.kvso.nl/",
+        "Naam": "KVSO Stadskanaal",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8284912109375,
+          52.24209705988649
+        ]
+      },
+      "properties": {
+        "Location": " Uithoorn",
+        "Website": "http://www.mdr.nu/",
+        "Naam": "Uithoornse roei- en KV Michiel de Ruyter",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.94384765625,
+          52.221910816265954
+        ]
+      },
+      "properties": {
+        "Location": " Vinkeveen",
+        "Website": "http://www.kvdrv.nl/",
+        "Naam": "KV de Ronde Venen",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.14948803385113,
+          51.3769197
+        ]
+      },
+      "properties": {
+        "Location": " Venlo",
+        "Website": "http://www.kvvikingvenlo.nl/",
+        "Naam": "KV Viking Venlo",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.338226318359375,
+          51.921402619223514
+        ]
+      },
+      "properties": {
+        "Location": " Vlaardingen",
+        "Website": "http://www.natsec.nl/",
+        "Naam": "KV Natsec",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.44921875,
+          51.38892310050487
+        ]
+      },
+      "properties": {
+        "Location": " Waalre",
+        "Website": "http://vkc.volmolensekanoclub.nl/",
+        "Naam": "Volmolense kano club",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.673065185546874,
+          51.964577109947506
+        ]
+      },
+      "properties": {
+        "Location": " Wageningen",
+        "Website": "http://www.wkvkano.nl/",
+        "Naam": "WKV de bovenste Polder",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.51570653553393,
+          53.3339204
+        ]
+      },
+      "properties": {
+        "Location": " Winsum",
+        "Website": "http://www.kanoverwinsum.nl/",
+        "Naam": "KV Winsum",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8766871986735,
+          52.08701595
+        ]
+      },
+      "properties": {
+        "Location": " Woerden",
+        "Website": "http://www.kvwyrda.nl/",
+        "Naam": "KV Wydra",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.822998046875,
+          52.49950372242746
+        ]
+      },
+      "properties": {
+        "Location": " Wormer",
+        "Website": "https://www.facebook.com/zwetplassers",
+        "Naam": "KV de Zwetplassers",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81594421954726,
+          52.45030615
+        ]
+      },
+      "properties": {
+        "Location": " Zaandam",
+        "Website": "http://www.kvdegeuzen.nl/",
+        "Naam": "KV de Geuzen",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8538970947265625,
+          52.445129091618824
+        ]
+      },
+      "properties": {
+        "Location": " Zaandam",
+        "Website": "http://www.quovadis-zaandam.nl/",
+        "Naam": "WSV Quo Vadis",
+        "Affiliatie": "Watersportverbond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.489288330078125,
+          52.06093458403525
+        ]
+      },
+      "properties": {
+        "Location": " Zoetermeer",
+        "Website": "https://zkvdesprinters.nl//",
+        "Naam": "ZKV de Sprinters",
+        "Affiliatie": "Watersportverbond"
+      }
+    }
+  ]
+}

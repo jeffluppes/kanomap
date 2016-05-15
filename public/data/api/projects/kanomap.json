@@ -139,9 +139,20 @@
             "id": "watersportverbond",
             "title": "Watersportverbond",
             "description": "",
-            "clustering": false,
+            "clustering": true,
             "clusterLevel": 12,
             "layers": [
+                                   {
+                        "id": "watersportverbondverenigingen",
+                        "title": "Aangesloten verenigingen",
+                        "type": "dynamicgeojson",
+                        "url": "api/layers/watersportverbondverenigingen",
+                        "typeUrl": "api/resources/wsvbft",
+                        "opacity": 75,
+                        "defaultFeatureType": "wsvb",
+                        "isDynamic": true,
+                        "gui": {}
+                    },
                 {
                     "id": "vwp",
                     "title": "Vaarwaterpunten (toerboekje)",
