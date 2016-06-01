@@ -1,0 +1,115 @@
+{
+    "featureTypes": {
+        "kort": {
+            "name": "kort",
+            "style": {
+                "nameLabel": "Naam",
+                "fillColor": "#009933",
+                "strokeColor": "#437313",
+                "strokeWidth": 5,
+                "iconUri": "images/kano.png"
+            },
+            "propertyTypeKeys": "Naam,Dag,Afstand,distance",
+            "isInitialized": true,
+            "propertyTypeData": []
+        },
+        "middel": {
+            "name": "middel",
+            "style": {
+                "nameLabel": "Naam",
+                "fillColor": "#ff6600",
+                "strokeColor": "#ff9b09",
+                "strokeWidth": 5,
+                "iconUri": "images/kano.png"
+            },
+            "propertyTypeKeys": "Naam,Dag,Afstand,distance",
+            "isInitialized": true,
+            "propertyTypeData": []
+        },
+        "lang": {
+            "name": "lang",
+            "style": {
+                "nameLabel": "Naam",
+                "fillColor": "#ffa1a1",
+                "strokeColor": "#ff0f09",
+                "strokeWidth": 5,
+                "iconUri": "images/kano.png"
+            },
+            "propertyTypeKeys": "Naam,Dag,Afstand,distance",
+            "isInitialized": true,
+            "propertyTypeData": []
+        },
+        "camping": {
+            "name": "camping",
+            "style": {
+                "nameLabel": "Naam",
+                "fillColor": "#90a437",
+                "strokeColor": "#000000",
+                "strokeWidth": 2,
+                "iconUri": "images/tent.png",
+                "iconWidth": 26,
+                "iconHeight": 26,
+                "stroke": true,
+                "selectedStrokeColor": "#000000",
+                "opacity": 1,
+                "fillOpacity": 1
+            },
+            "propertyTypeKeys": "Naam,Dag,Afstand,distance",
+            "id": "api/resources/seno#camping",
+            "isInitialized": true,
+            "propertyTypeData": [],
+            "showAllProperties": false
+        }
+    },
+    "propertyTypeData": {
+        "Naam": {
+            "label": "Naam",
+            "title": "Naam",
+            "type": "text",
+            "section": "data",
+            "canEdit": true,
+            "visibleInCallOut": true,
+            "id": "api/resources/seno#Naam",
+            "isSearchable": true,
+            "description": "asgsdh"
+        },
+        "Afstand": {
+            "label": "Afstand",
+            "title": "Afstand",
+            "type": "number",
+            "section": "data",
+            "canEdit": true,
+            "visibleInCallOut": true,
+            "id": "api/resources/seno#afstand"
+        },
+        "distance": {
+            "label": "distance",
+            "title": "distance",
+            "type": "number",
+            "section": "data",
+            "canEdit": true,
+            "visibleInCallOut": true,
+            "id": "api/resources/seno#distance"
+        },
+        "Dag": {
+            "label": "Dagen",
+            "title": "Dagen",
+            "type": "number",
+            "section": "data",
+            "canEdit": true,
+            "visibleInCallOut": true,
+            "id": "api/resources/seno#Dag"
+        },
+        "FeatureTypeId": {
+            "title": "FeatureTypeId",
+            "id": "api/resources/seno#FeatureTypeId",
+            "type": "text",
+            "section": "data",
+            "canEdit": false,
+            "visibleInCallOut": false,
+            "isSearchable": true,
+            "label": "FeatureTypeId"
+        }
+    },
+    "id": "seno"
+}
