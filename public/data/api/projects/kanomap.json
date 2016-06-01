@@ -249,7 +249,38 @@
                     "gui": {}
                 }
             ]
-        }
+        },
+         {
+                "id": "icf",
+                "title": "Grote kanoevenementen",
+                "description": "",
+                "clustering": false,
+                "clusterLevel": 12,
+                "layers": [
+                    {
+                        "id": "seno",
+                        "title": "Stad en Ommelandentocht",
+                        "type": "dynamicgeojson",
+                        "url": "api/layers/seno",
+                        "typeUrl": "api/resources/seno",
+                        "opacity": 75,
+                        "defaultFeatureType": "Kort",
+                        "isDynamic": true,
+                        "gui": {}
+                    },
+                    {
+                        "id": "veluwerally",
+                        "title": "Veluwerally",
+                        "type": "dynamicgeojson",
+                        "url": "api/layers/veluwerally",
+                        "typeUrl": "api/resources/veluwerally",
+                        "opacity": 75,
+                        "defaultFeatureType": "tocht",
+                        "isDynamic": true,
+                        "gui": {}
+                    }
+                ]
+            }
     ],
     "storage": "file"
 }
