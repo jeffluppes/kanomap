@@ -250,6 +250,26 @@
                 }
             ]
         },
+                {
+            "id": "eigen",
+            "title": "Eigen projecten",
+            "description": "",
+            "clustering": false,
+            "clusterLevel": 12,
+            "layers": [
+                {
+                    "id": "onlanden",
+                    "title": "De Onlanden",
+                    "type": "dynamicgeojson",
+                    "url": "api/layers/onlanden",
+                    "typeUrl": "api/resources/onlanden",
+                    "opacity": 75,
+                    "defaultFeatureType": "route",
+                    "isDynamic": true,
+                    "gui": {}
+                }
+            ]
+        },
          {
                 "id": "icf",
                 "title": "Grote kanoevenementen",

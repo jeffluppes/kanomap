@@ -1,0 +1,160 @@
+{
+    "featureTypes": {
+        "route": {
+            "name": "route",
+            "style": {
+                "nameLabel": "Naam",
+                "fillColor": "#009933",
+                "strokeColor": "#ff7209",
+                "strokeWidth": 5,
+                "iconUri": "images/kano.png"
+            },
+            "propertyTypeKeys": "Naam",
+            "isInitialized": true,
+            "propertyTypeData": []
+        },
+        "verbodengebied": {
+            "name": "verbodengebied",
+            "style": {
+                "nameLabel": "Naam",
+                "fillColor": "#803215",
+                "strokeColor": "#551700",
+                "strokeWidth": 5,
+                "iconUri": "images/geentoegang.png"
+            },
+            "propertyTypeKeys": "Naam",
+            "isInitialized": true,
+            "propertyTypeData": []
+        },
+        "vis": {
+            "name": "vis",
+            "style": {
+                "nameLabel": "Naam",
+                "fillColor": "#90a437",
+                "strokeColor": "#000000",
+                "strokeWidth": 2,
+                "iconUri": "images/vis.png",
+                "iconWidth": 26,
+                "iconHeight": 26,
+                "stroke": true,
+                "selectedStrokeColor": "#000000",
+                "opacity": 1,
+                "fillOpacity": 1
+            },
+            "propertyTypeKeys": "Naam",
+            "id": "api/resources/onlanden#vis",
+            "isInitialized": true,
+            "propertyTypeData": [],
+            "showAllProperties": false
+        },
+        "steiger": {
+            "name": "steiger",
+            "style": {
+                "nameLabel": "Naam",
+                "fillColor": "#90a437",
+                "strokeColor": "#000000",
+                "strokeWidth": 2,
+                "iconUri": "images/steiger.png",
+                "iconWidth": 26,
+                "iconHeight": 26,
+                "stroke": true,
+                "selectedStrokeColor": "#000000",
+                "opacity": 1,
+                "fillOpacity": 1
+            },
+            "propertyTypeKeys": "Naam",
+            "id": "api/resources/onlanden#steiger",
+            "isInitialized": true,
+            "propertyTypeData": [],
+            "showAllProperties": false
+        },
+                "duiker": {
+            "name": "duiker",
+            "style": {
+                "nameLabel": "Naam",
+                "fillColor": "#90a437",
+                "strokeColor": "#000000",
+                "strokeWidth": 2,
+                "iconUri": "images/duiker.png",
+                "iconWidth": 26,
+                "iconHeight": 26,
+                "stroke": true,
+                "selectedStrokeColor": "#000000",
+                "opacity": 1,
+                "fillOpacity": 1
+            },
+            "propertyTypeKeys": "Naam",
+            "id": "api/resources/onlanden#duiker",
+            "isInitialized": true,
+            "propertyTypeData": [],
+            "showAllProperties": false
+        },
+                "toerist": {
+            "name": "toerist",
+            "style": {
+                "nameLabel": "Naam",
+                "fillColor": "#90a437",
+                "strokeColor": "#000000",
+                "strokeWidth": 2,
+                "iconUri": "images/toerist.png",
+                "iconWidth": 26,
+                "iconHeight": 26,
+                "stroke": true,
+                "selectedStrokeColor": "#000000",
+                "opacity": 1,
+                "fillOpacity": 1
+            },
+            "propertyTypeKeys": "Naam",
+            "id": "api/resources/onlanden#toerist",
+            "isInitialized": true,
+            "propertyTypeData": [],
+            "showAllProperties": false
+        },
+                "geentoegang": {
+            "name": "geentoegang",
+            "style": {
+                "nameLabel": "Naam",
+                "fillColor": "#fd0006",
+                "strokeColor": "#000000",
+                "strokeWidth": 2,
+                "iconUri": "images/geentoegang.png",
+                "iconWidth": 26,
+                "iconHeight": 26,
+                "stroke": true,
+                "selectedStrokeColor": "#000000",
+                "opacity": 1,
+                "fillOpacity": 1
+            },
+            "propertyTypeKeys": "Naam",
+            "id": "api/resources/onlanden#steiger",
+            "isInitialized": true,
+            "propertyTypeData": [],
+            "showAllProperties": false
+        }
+    },
+    "propertyTypeData": {
+        "Naam": {
+            "label": "Naam",
+            "title": "Naam",
+            "type": "text",
+            "section": "data",
+            "canEdit": true,
+            "visibleInCallOut": true,
+            "id": "api/resources/onlanden#Naam",
+            "isSearchable": true,
+            "description": "asgsdh"
+        },
+        "FeatureTypeId": {
+            "title": "FeatureTypeId",
+            "id": "api/resources/onlanden#FeatureTypeId",
+            "type": "text",
+            "section": "data",
+            "canEdit": false,
+            "visibleInCallOut": false,
+            "isSearchable": true,
+            "label": "FeatureTypeId"
+        }
+    },
+    "id": "onlanden",
+    "propertyTypes": {}
+}
